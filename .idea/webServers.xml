@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6ff08d78-2f11-458c-be05-03d5388978ad" name="PersoIndex" url="http://ftp.cluster003.ovh.net">
+        <fileTransfer host="ftp.cluster003.ovh.net" port="21" rootFolder="/projects">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
